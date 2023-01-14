@@ -330,6 +330,9 @@ footer > p{
         margin: auto;
     }
 /* ---------logo-banner------------ */
+    .logo-banner{
+        gap: 0.7rem;
+    }
 
 /* ---------collection------------ */
 
